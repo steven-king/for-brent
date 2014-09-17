@@ -1143,9 +1143,31 @@ h3 {
 	
 /* Smartphones (fix) ----------- */
 @media only screen and (max-device-width: 480px) {
-#about-quote { 
-	background-image:none;
+    #about-quote { 
+	    background-image:none;
+	    heigh:10px;
+    }
+    
+    #twiiter-section {
+	    background-image:none;
+	    heigh:10px;
+    }
+    
+    #work-quote { 
+	    background-image:none;
+	    heigh:10px;
+    }
+    
+    #client {
+	    background-image:none;
+	    heigh:10px;
+    }
+    
+    #contact .contact-info { 
+	    background-color: #5f5f5f; 
+	    background-image: none;
+	    heigh:10px;
+    }
+
 }
 
-#twiiter-section {
-	background-image:none;
